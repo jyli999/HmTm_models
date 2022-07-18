@@ -1,7 +1,7 @@
 
 
 %% ========================================================================
-% this program is to select the optimal hyperparameters for different ML
+% this program is to select the optimal hyperparameters for different Hm Tm_models
 % models using 10-fold cross validation
 % Author: Junyu Li and Meng Cai
 % Date: 2021/12/18
